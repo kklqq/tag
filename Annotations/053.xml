@@ -17,34 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>83</xmin>
-			<ymin>34</ymin>
-			<xmax>537</xmax>
-			<ymax>443</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>screw hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>239</xmin>
-			<ymin>217</ymin>
-			<xmax>248</xmax>
-			<ymax>228</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>screw hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>307</xmin>
-			<ymin>310</ymin>
-			<xmax>319</xmax>
-			<ymax>318</ymax>
+			<xmin>97</xmin>
+			<ymin>130</ymin>
+			<xmax>508</xmax>
+			<ymax>369</ymax>
 		</bndbox>
 	</object>
 </annotation>
